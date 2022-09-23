@@ -139,7 +139,7 @@ hr {
     .header-main-right{
         width: 900px;
         min-height: 600px;
-        background: url('../img/header-background.png') left/cover;
+        background: url('../img/cow.png') left/cover;
     }
     .header-main-right img { display: none }
     #form-search button:hover {
@@ -191,7 +191,7 @@ hr {
     .header-main-right{
         width: 900px;
         min-height: 600px;
-        background: url('../img/header-background.png') left/cover;
+        background: url('../img/cow.png') left/cover;
     }
     .header-main-right img { display: none }
     #form-search button:hover {
@@ -211,7 +211,7 @@ hr {
     /*START стилизация элементов header --- HEADER */
     h1 { font-size: 60px; line-height: 72px; }
     .header-main-left { width: 660px; min-width: 660px; }
-    .header-main-right{ background: url('../img/header-background.png') no-repeat }
+    .header-main-right{ background: url('../img/cow.png') no-repeat }
     .header-main-right img {display: none }
     /*FINISH стилизация элементов header и h1, h2..etc --- HEADER */
 }
